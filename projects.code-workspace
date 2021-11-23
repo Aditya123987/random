@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\comments"
+		},
+		{
+			"path": "..\\example"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\StadiumHub"
+		},
+		{
+			"path": "..\\middleware"
+		},
+		{
+			"path": "..\\htmltemplating"
+		}
+	],
+	"settings": {}
+}
